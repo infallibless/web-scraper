@@ -19,9 +19,9 @@ Follow these simple steps to get your scraper up and running:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/infalibless/web-scraper
+   git clone https://github.com/infallibless/web-scraper
    ```
-   Or download it directly from [this link](https://github.com/infalibless/web-scraper/archive/refs/heads/main.zip).
+   Or download it directly from [this link](https://github.com/infallibless/web-scraper/archive/refs/heads/main.zip).
 
 2. **Navigate to the project directory**:
    ```bash
