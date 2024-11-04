@@ -1,0 +1,5 @@
+{
+    "saveHtml": true,
+    "logfolder": "./extract",
+    "url": "https://amazon.com"
+}
