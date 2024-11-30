@@ -25,7 +25,7 @@ Follow these simple steps to get your scraper up and running:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd node-web-scraper
+   cd web-scraper
    ```
 
 3. **Install dependencies**:
